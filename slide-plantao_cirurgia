@@ -1,0 +1,144 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=ReportSection992bccf885f88f55d322",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=e0996c44600200e82450",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=3b51bb96149d977e590a",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=ReportSection422b578387ad7f624b57",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=0910d079e600377a5790",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=585fc3917802a074d066",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=ReportSectionf548e6bd3a9fbbf14a05",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=8d5447863908501b7827",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=ReportSection166cd399fbabfb7b60f8",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=0cf36c79e05a5607d921",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=c65a43a85acbede823b0",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=84d92c85b0e2714d42b9",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=b1d44bd00440038b3a01",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=f3f858dd8a7d6ea8bb52",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=1438e04a4de2d87eec70",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=542b86f13d2030a8e765",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=d337e24971b8088de58a",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=0d385605034a810167cb",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=e465d2bfc060890a4c7a",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=982abb31b051b6b1d551",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=b8541a154c7bbc95581a",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=dad1605bc8b2a8e25de9",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=2f6cb2f08d43d1065c10",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=b94dd8af0e1103b4402d",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=72307e4988715bbec5cb",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=db3c58e18e03e40025e9",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    },
+{
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjZiN2VkOTEtY2QwZS00ZDZlLWIwMzMtZTcxMDQxN2QxMzMyIiwidCI6IjE5OWU1OWVlLTlmNjMtNGQzNS1iMjU4LTdkODY3ZjExY2VjOCJ9&pageName=08de11140a2a5b80228c",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 3600
+    }
+  ]
+}
